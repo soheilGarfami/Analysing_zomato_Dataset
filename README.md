@@ -3,3 +3,5 @@ Zomato is an  multinational restaurant aggregator and food delivery company. The
 
 first I explore and cleaned the dataset and then analize it with sql.
 at the end I made some visualization with tablaeu. I hope it's helpfull 
+
+![](./tableau_visulization.jpg)
